@@ -7,3 +7,6 @@ Algorithm_DataStruct
 [2강 배열](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/02.md)
 ===========
 * * *
+[3강 큐](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/03.md)
+===========
+* * *
