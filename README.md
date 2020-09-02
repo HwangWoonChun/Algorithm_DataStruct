@@ -22,3 +22,6 @@ Algorithm_DataStruct
 [7강 해쉬 테이블](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/07.md)
 ===========
 * * *
+[8강 트리](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/08.md)
+===========
+* * *
