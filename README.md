@@ -31,3 +31,6 @@ Algorithm_DataStruct
 [10강 버블정렬](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/10.md)
 ===========
 * * *
+[11강 선택정렬](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/11.md)
+===========
+* * *
