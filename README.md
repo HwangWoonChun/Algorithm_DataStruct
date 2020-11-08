@@ -28,3 +28,6 @@ Algorithm_DataStruct
 [9강 힙](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/09.md)
 ===========
 * * *
+[10강 버블정렬](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/10.md)
+===========
+* * *
