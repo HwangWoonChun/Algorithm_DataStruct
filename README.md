@@ -34,3 +34,6 @@ Algorithm_DataStruct
 [11강 선택정렬](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/11.md)
 ===========
 * * *
+[12강 삽입정렬](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/12.md)
+===========
+* * *
