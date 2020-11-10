@@ -40,3 +40,6 @@ Algorithm_DataStruct
 [13강 재귀용법을 알아야 더 다양한 알고리즘 작성이 가능하다](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/13.md)
 ===========
 * * *
+[14강 동적 계획법과 분할정복](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/14.md)
+===========
+* * *
