@@ -43,3 +43,6 @@ Algorithm_DataStruct
 [14강 동적 계획법과 분할정복](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/14.md)
 ===========
 * * *
+[15강 퀵정렬](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/15.md)
+===========
+* * *
