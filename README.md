@@ -46,3 +46,6 @@ Algorithm_DataStruct
 [15강 퀵정렬](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/15.md)
 ===========
 * * *
+[16강 병합정렬](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/16.md)
+===========
+* * *
