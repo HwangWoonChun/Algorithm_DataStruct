@@ -58,3 +58,5 @@ Algorithm_DataStruct
 [19강 기본 자료구조](https://github.com/HwangWoonChun/Algorithm_DataStruct/blob/master/rect/19.md)
 ===========
 * * *
+[IT 회사에서 개발자와 대화하는 게 왜 힘든지 아세요?](https://brunch.co.kr/@tansfil/1)
+===========
